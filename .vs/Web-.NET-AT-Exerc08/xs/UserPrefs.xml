@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{66E7294B-5DBF-49EE-8AAF-702B8F873D8B}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Web-.NET-AT-Exerc08 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web-.NET-AT-Exerc08/Data/AppDbContext.cs">
+    <Files>
+      <File FileName="Web-.NET-AT-Exerc08/Program.cs" />
+      <File FileName="Web-.NET-AT-Exerc08/Models/Cliente.cs" />
+      <File FileName="Web-.NET-AT-Exerc08/Data/AppDbContext.cs" Line="11" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Web-.NET-AT-Exerc08" expanded="True">
+            <Node name="Web-.NET-AT-Exerc08" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
